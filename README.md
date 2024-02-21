@@ -1,6 +1,8 @@
 # MySQL Blog with Comments
 
-For this project, I created a database using MySQL that performs basic queries and operations. These functions resemble the type of work done by routes in Express. The "postsBackup.json" file has the data in json format to see how these objects are represented.
+For this project, I created a database using MySQL that performs basic queries and operations. I used Sequelize to create the appropriate schema for the data involved in the blog and implemented a MySQL backend for the express routes. Demonstrated these queries and operations with Postman.
+
+View Demo Here: https://www.canva.com/design/DAF9dCSKkvQ/r-ERvXTcO8pXnf8DB8SxvA/edit?utm_content=DAF9dCSKkvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 # Specifications
