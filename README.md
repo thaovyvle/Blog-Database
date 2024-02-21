@@ -1,6 +1,6 @@
 # MongoDB Blog with Comments
 
-For this project, I created a Node.js / Express application. Going on the theme of content management, I created a file-backed express server that handles blog posts and comments using a JSON file to store the data.
+For this project, I created a database using MongoDB that performs basic queries and operations. These functions resemble the type of work done by routes in Express. The "bookData_backup.json" file has the data in a json format to see how these objects are represented.
 
 
 # Specifications
