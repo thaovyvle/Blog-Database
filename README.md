@@ -14,14 +14,12 @@ title: string
 author: string
 date: DateTime
 postId: string
-comments: [
-{
- author: string
- date: DateTime
- commentId: string
- content: string
-}
-]
+comments: [{
+  author: string
+  date: DateTime
+  commentId: string
+  content: string
+}]
 content: string
 ```
 
