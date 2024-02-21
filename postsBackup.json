@@ -1,0 +1,78 @@
+[
+    {
+        "title": "UCF Returns from Spring Break",
+        "author": "johnsmith",
+        "date": "2023-02-14T19:08:33.107Z",
+        "postId": "p1",
+        "comments": [{
+            "author": "johnmiller",
+            "date": "2023-02-15T19:12:25.107Z",
+            "commentId": "c1",
+            "content": "Spring break was so much fun!"
+        },
+        {
+            "author": "graciejane",
+            "date": "2023-02-16T19:8:25.107Z",
+            "commentId": "c2",
+            "content": "I needed that time to relax."
+        }],
+      "content": "UCF students return from Spring Break from 3/13 - 3/19. Classes begin again on 3/20."
+    },
+    {
+        "title": "Class Registration Is Opening Soon",
+        "author": "jackiegreen",
+        "date": "2023-03-01T19:08:33.107Z",
+        "postId": "p2",
+        "comments": [{
+            "author": "samrose",
+            "date": "2023-03-02T19:12:25.107Z",
+            "commentId": "c3",
+            "content": "I need to plan my schedule soon."
+        },
+        {
+            "author": "johnmiller",
+            "date": "2023-03-03T19:8:25.107Z",
+            "commentId": "c4",
+            "content": "Last year of classes for me!"
+        }],
+        "content": "Students make sure you schedule an appointment with your advisor to plan your courses for the oncoming semesters."
+    },
+    {
+        "title": "Register to Graduate Spring 2023",
+        "author": "johnsmith",
+        "date": "2023-01-14T19:08:33.107Z",
+        "postId": "p3",
+        "comments": [{
+            "author": "jacksmith",
+            "commentId": "c5",
+            "date": "2023-01-15T19:12:25.107Z",
+            "content": "I might need to take another semester."
+        },
+        {
+            "author": "racheljohn",
+            "commentId": "c6",
+            "date": "2023-01-16T19:8:25.107Z",
+            "content": "4 years went by so fast!"
+        }],
+    "content": "If you are planning to complete all requirements for your degree by the end of the Spring 2023 semester, you should file your Intent to Graduate (ITG) form online."
+    },
+    {
+        "title": "Job Opportunity for NSCM Students",
+        "author": "murphyjones",
+        "date": "2023-02-22T19:08:33.107Z",
+        "postId": "p4",
+        "comments": [{
+            "author": "alexcoleman",
+            "commentId": "c1",
+            "date": "2022-02-23T19:12:25.107Z",
+            "content": "I need this job so badly!"
+        },
+        {
+            "author": "tiffanygrey",
+            "commentId": "c2",
+            "date": "2022-02-24T19:8:25.107Z",
+        "content": "I have all these requirements! Applying soon."
+        }],
+    "content": "The Office of Student Involvement (OSI) is currently looking to hire a well-versed Web Designer!"
+    }
+]
