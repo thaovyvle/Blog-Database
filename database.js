@@ -3,7 +3,7 @@ import { MongoClient } from 'mongodb'
 let dbConnection
 
 export const connectToDb = (cb) => {
-  MongoClient.connect("mongodb://localhost:37017/lab9")
+  MongoClient.connect("mongodb://localhost:37017/BlogDB")
     .then((client) => {
       dbConnection = client.db();
       return cb;
