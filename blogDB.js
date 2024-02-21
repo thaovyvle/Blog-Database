@@ -5,7 +5,7 @@ import { MongoClient } from "mongodb"
 import { connectToDb, getDb } from "./database.js"
 
 const DB_NAME = "lab9"
-const MONGODB_URI = "mongodb://localhost:37017/lab9"
+const MONGODB_URI = "mongodb://localhost:37017/blogDB.js"
 const COLLECTION_NAME = "posts"
 let postCount = 4
 let commentCount = 8
