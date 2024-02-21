@@ -1,6 +1,6 @@
-# MongoDB Blog with Comments
+# MySQL Blog with Comments
 
-For this project, I created a database using MongoDB that performs basic queries and operations. These functions resemble the type of work done by routes in Express. The "postsBackup.json" file has the data in json format to see how these objects are represented.
+For this project, I created a database using MySQL that performs basic queries and operations. These functions resemble the type of work done by routes in Express. The "postsBackup.json" file has the data in json format to see how these objects are represented.
 
 
 # Specifications
