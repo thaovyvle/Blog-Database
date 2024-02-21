@@ -1,10 +1,7 @@
-# Lab 9: MongoDB Blog with Comments
+# MongoDB Blog with Comments
 
-For this lab, you will revise the express routes authored from Project 2 to work with MongoDB.
+For this project, I created a Node.js / Express application. Going on the theme of content management, I created a file-backed express server that handles blog posts and comments using a JSON file to store the data.
 
-You may use Project 2 as the starting code, and add appropriate libraries as demonstrated in the module.
-
-No client is necessary, and you may use either mongosh, MongoDB Compass or MongoDB for VS Code to demonstrate the results of the queries made through Postman (or another method).
 
 # Specifications
 
@@ -30,7 +27,7 @@ content: string
 
 ## Routes
 
-Your application should handle the following routes, each of which should be demonstrated using Postman in the video:
+The application handles the following routes:
 
 - GET /posts : Returns the array of posts.
 - GET /posts/\[author\] : Returns an array of posts by a given author (assume author username is unique).
@@ -42,7 +39,3 @@ Your application should handle the following routes, each of which should be dem
 - POST /post/\[postId\]/comment : Adds a comment to the end of the post and returns the commentId
 - GET /post/\[postId\]/comments : Returns all comments associated with a given postId
 - DELETE /post/\[postId\]/comment/\[commentId\] : Deletes the comment with the provided **commentId** on the post with the **postId**
-
-# WHAT TO SUBMIT
-
-Submit a video of no more than 4 minutes that walks through the code and demonstrates the routes making appropriate changes to the database. You may use any MongoDB client or simply mongosh to show the changes to the database after the queries are made.
