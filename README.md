@@ -5,22 +5,26 @@ For this project, I created a database using MySQL that performs basic queries a
 
 # Specifications
 
-## Document Schema
+## Table Schema
 
 Posts:
 
 ```text
-title: string
-author: string
-date: DateTime
-postId: string
-comments: [{
+  title: string
   author: string
   date: DateTime
-  commentId: string
+  postId: string
   content: string
-}]
-content: string
+```
+
+Comments:
+
+```text
+  author: string
+  date: DateTime 
+  commentId: string
+  postId: string
+  content: string
 ```
 
 ## Routes
