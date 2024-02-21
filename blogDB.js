@@ -4,8 +4,8 @@ import bodyParser from "body-parser"
 import { MongoClient } from "mongodb"
 import { connectToDb, getDb } from "./database.js"
 
-const DB_NAME = "lab9"
-const MONGODB_URI = "mongodb://localhost:37017/blogDB.js"
+const DB_NAME = "blogDB"
+const MONGODB_URI = "mongodb://localhost:37017/blogDB"
 const COLLECTION_NAME = "posts"
 let postCount = 4
 let commentCount = 8
